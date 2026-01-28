@@ -1,28 +1,7 @@
 # ashare_vol_regime_factor
 Regime-dependent multi-factor research in China A-share market
 
-project structure
-ashare_vol_regime_factor/
-│
-├── data/
-│   ├── raw/          # 原始数据（不动）
-│   ├── processed/    # 清洗后的数据
-│
-├── src/
-│   ├── data/         # 数据清洗、股票池
-│   ├── factors/      # 因子构造
-│   ├── backtest/     # 回测逻辑
-│   └── utils/        # 通用函数
-│
-├── research/
-│   ├── notes.md      # 每天研究记录
-│   └── figures/
-│
-├── results/
-│   ├── tables/
-│   └── plots/
-│
-└── README.md
+
 
 # A股波动率状态下的多因子研究
 
