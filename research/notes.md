@@ -12,3 +12,7 @@ Initialized project structure and defined research scope.
 遇到问题：
 - 初次处理 CSV 路径容易写错
 - volume=0 判定停牌时注意复权前后差异
+
+## Day 3
+
+使用后复权贵州茅台，计算日收益率并以沪深300作为 benchmark，得到超额收益序列，为后续 alpha/因子研究提供基础
