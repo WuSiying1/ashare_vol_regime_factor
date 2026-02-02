@@ -20,3 +20,6 @@ Initialized project structure and defined research scope.
 
 ## Day 4
 我用滚动 20 日年化波动率刻画市场风险状态，并基于历史分位数将其离散为高/低波动区间，发现不同波动状态下，股票未来超额收益存在系统性差异
+
+
+    
